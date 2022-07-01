@@ -1,0 +1,25 @@
+#heading{
+    text-align: center;
+    font-family: "CS Avva Shenouda";
+}
+#coptic{
+    text-align: center;
+    font-family: "CS Avva Shenouda";
+    font-size: 30px;
+}
+#filler{
+    color: white;
+    font-size: 30px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: 550px;    
+}
+#eng{
+    font-size: 30px;
+}
+a{
+    font-size: 30px;
+    padding: 10px
+}
